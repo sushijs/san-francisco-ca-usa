@@ -1,1 +1,14 @@
-Coming January 2014!
+#SushiJS
+
+[RSVP for the initial meetup](https://github.com/sushijs/san-francisco-ca-usa/issues/1)
+
+<table style="border-collapse: collapse">
+  <tr>
+    <td>
+      <img src="http://www.gravatar.com/avatar/d32635f156e30c2f863ec95af93aef18.jpg?s=150">
+    </td>
+    <td>
+      <p><em>SushiJS: Bringing together San Francisco JavaScript developers through sushi and conversation</em></p>
+    </td>
+  </tr>
+</table>
