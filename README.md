@@ -1,6 +1,7 @@
 #SushiJS
 
-[RSVP for the initial meetup](https://github.com/sushijs/san-francisco-ca-usa/issues/1)
+[February Meetup
+discussion](https://github.com/sushijs/san-francisco-ca-usa/issues/3)
 
 <table style="border-collapse: collapse">
   <tr>
