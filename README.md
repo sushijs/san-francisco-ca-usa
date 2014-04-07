@@ -1,7 +1,6 @@
 #SushiJS
 
-[February Meetup
-discussion](https://github.com/sushijs/san-francisco-ca-usa/issues/3)
+Discussions of future meetups can be found in the [open issues](https://github.com/sushijs/san-francisco-ca-usa/issues?page=1&state=open), and previous, the [closed](https://github.com/sushijs/san-francisco-ca-usa/issues?page=1&state=closed).
 
 <table style="border-collapse: collapse">
   <tr>
