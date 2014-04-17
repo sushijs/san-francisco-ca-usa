@@ -30,6 +30,8 @@ religion, sexual images, deliberate intimidation, stalking, following,
 harassing photography or recording, inappropriate physical contact, and
 unwelcome sexual attention.
 
+Don’t make Brian Ford sad.
+
 Attendees asked to stop any harassing behavior are expected to comply immediately.
 
 If an attendee engages in harassing behavior, the organizers may take any
