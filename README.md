@@ -1,5 +1,7 @@
 #SushiJS
 
+We meet the 3rd Wednesday of every month.
+
 Discussions of future meetups can be found in the [open issues](https://github.com/sushijs/san-francisco-ca-usa/issues?page=1&state=open), and previous, the [closed](https://github.com/sushijs/san-francisco-ca-usa/issues?page=1&state=closed).
 
 <table style="border-collapse: collapse">
