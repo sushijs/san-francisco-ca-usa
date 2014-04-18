@@ -1,4 +1,4 @@
-#SushiJS
+#SushiJS San Francisco
 
 We meet the 3rd Wednesday of every month.
 
